@@ -139,7 +139,6 @@ int main()
 	cout << endl;
 
 	removePetOwner(ptrPet1, ptrPerson2);
-	removePetOwner(ptrPet1, ptrPerson4);
 	setPetOwner(ptrPet2, ptrPerson2);
 	setPetOwner(ptrPet2, ptrPerson4);
 
